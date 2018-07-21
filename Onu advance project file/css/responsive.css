@@ -1,0 +1,72 @@
+@media screen and (max-width: 1024px){
+	.logo img {
+		width: 85%;
+		height: 85%;
+		margin-top: 5px;
+	}
+	.navbar-nav {
+    	margin-top: 0;
+	}
+	.portfolio-overlay h2 {
+		margin-top: 130px;
+	}
+
+	.footer-icon i {
+		margin: 0 10px;
+	}
+	.pull-right {
+    	float: left!important;
+	}
+}
+
+
+@media screen and (max-width: 375px){
+	.navbar-default {
+		background: rgba(57, 57, 58, 0.7); 
+	}
+	.menu-bg {
+		background: transparent;
+
+	}
+
+	.item h3 {
+		font-size: 20px;
+	}
+	.item h2 {
+		font-size: 60px;
+	}
+	.item h4 {
+		font-size: 28px;
+	}
+	.about-single {
+		margin-top: 30px;
+	}
+	.service-single {
+		margin-top: 30px;
+	}
+	.button {
+    	margin-top: 10px;
+    	font-size: 12px;
+    }
+    .portfolio-overlay h2 {
+    	font-size: 10px;
+    }
+    .pricing-table {
+    	margin-top: 20px;
+    }
+    .single-counter-up {
+    	margin-top: 20px;
+    }
+
+    .footer-text {
+ 		font-size: 12px;
+ 		text-align: center;
+ 	}
+
+	.footer-icon i {
+    	font-size: 12px;
+    	margin: 0 10px;
+    	text-align: center;
+	}
+
+}
